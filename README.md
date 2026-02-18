@@ -29,20 +29,37 @@ My focus is on building scalable REST APIs, designing efficient data models, and
 
 ### 🔥 Featured Projects
 
-#### 🚗 ParkEasy – Full Stack Parking Management System
-- MERN-based application for booking and managing parking spaces
-- Implemented secure JWT-based authentication
-- Designed scalable MongoDB schemas
-- Built RESTful APIs for CRUD operations
+#### 🚗 ParkEasy – Full Stack Parking Management System  
+[Client Repository](https://github.com/Kaushik515/park-easy-client) | 
+[Server Repository](https://github.com/Kaushik515/park-easy-server) | 
+[Live Project](https://park-easy-client.onrender.com)
 
-#### 🏨 Hotel Booking System
-- Full-stack hotel reservation system using MERN
-- Integrated authentication and booking workflows
-- Deployed on Render for live accessibility
+- MERN-based parking space booking and management system  
+- Implemented secure JWT-based authentication  
+- Designed scalable MongoDB schemas  
+- Built RESTful APIs with proper route and controller separation  
 
-#### 🌿 Glow – Plant Nursery E-commerce UI
-- Responsive frontend project with interactive UI/UX
-- Built using HTML, CSS, and JavaScript
+---
+
+#### 🏨 Hotel Booking System  
+[Client Repository](https://github.com/Kaushik515/Hotel-Management-FrontEnd) | 
+[Server Repository](https://github.com/Kaushik515/Hotel-Management) | 
+[Live Project](https://hotel-management-frontend.onrender.com)
+
+- Full-stack hotel reservation system using MERN  
+- Integrated authentication and booking workflows  
+- Efficient MongoDB data modeling for users, hotels, and bookings  
+- Deployed for live accessibility  
+
+---
+
+#### 🌿 Glow – Plant Nursery UI  
+[Repository](https://github.com/Kaushik515/Glow) | 
+[Live Project](https://kaushik515.github.io/Glow)
+
+- Responsive frontend e-commerce UI  
+- Interactive design using HTML, CSS, and JavaScript  
+- Focused on clean layout and user experience  
 
 ---
 
