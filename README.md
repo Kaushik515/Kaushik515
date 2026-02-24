@@ -19,12 +19,12 @@ My focus is on building scalable REST APIs, designing efficient data models, and
 
 ### 🛠 Tech Stack
 
-**Backend**: Node.js, Express.js
-**Database**: MongoDB
-**Frontend**: React.js, JavaScript, HTML, CSS
-**Languages**: C++, JavaScript
-**Tools & Platforms**: Git, Postman, Bruno, VS Code, DBeaver
-**Core CS**: Data Structures, DBMS, Operating Systems, Computer Networks 
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Frontend**: React.js, JavaScript, HTML, CSS
+- **Languages**: C++, JavaScript
+- **Tools & Platforms**: Git, Postman, Bruno, VS Code, DBeaver
+- **Core CS**: Data Structures, DBMS, Operating Systems, Computer Networks 
 
 ---
 
