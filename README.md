@@ -31,26 +31,27 @@ My focus is on building scalable REST APIs, designing efficient data models, and
 ### 🔥 Featured Projects
 
 #### 🚗 ParkEasy – Full Stack Parking Management System  
-[Client Repository](https://github.com/Kaushik515/park-easy-client) | 
-[Server Repository](https://github.com/Kaushik515/park-easy-server) | 
-[Live Project](https://park-easy-client.onrender.com)
+[Client](https://github.com/Kaushik515/park-easy-client) | [Server](https://github.com/Kaushik515/park-easy-server) | [Live Demo](https://park-easy-client.onrender.com)
 
-- MERN-based parking space booking and management system  
-- Implemented secure JWT-based authentication  
-- Designed scalable MongoDB schemas  
-- Built RESTful APIs with proper route and controller separation  
+- Built and deployed a full-stack MERN parking booking platform with modular React frontend and Node/Express REST APIs.
+- Implemented secure JWT authentication and authorization middleware for protected routes and user-specific operations.
+- Designed normalized, scalable MongoDB schemas for users, cities, parkings, spaces, bookings, reviews, and payment methods.
+- Developed end-to-end booking workflow with availability checks and CRUD operations for parking/space management.
+- Structured backend using controller-route separation, centralized error handling, and reusable middleware for maintainability.
+- Integrated responsive UI pages for city discovery, parking details, booking, reviews, and user profile management.
 
 ---
 
-#### 🏨 Hotel Booking System  
-[Client Repository](https://github.com/Kaushik515/Hotel-Management-FrontEnd) | 
-[Server Repository](https://github.com/Kaushik515/Hotel-Management) | 
-[Live Project](https://hotel-management-frontend.onrender.com)
+#### 🏨 Hotel Management – Full Stack Hotel Reservation System  
+[Client](https://github.com/Kaushik515/Hotel-Management-FrontEnd) | [Server](https://github.com/Kaushik515/Hotel-Management) | [Live Demo](https://hotel-management-frontend.onrender.com)
 
-- Full-stack hotel reservation system using MERN  
-- Integrated authentication and booking workflows  
-- Efficient MongoDB data modeling for users, hotels, and bookings  
-- Deployed for live accessibility  
+- Built and deployed a full-stack MERN hotel reservation platform with a modular React frontend and Node/Express REST APIs.
+- Implemented secure JWT authentication and authorization middleware for protected routes and user-specific booking operations.
+- Designed efficient, scalable MongoDB schemas for users, hotels, rooms, and bookings with strong validation and data consistency.
+- Developed end-to-end reservation workflow with hotel discovery, room availability checks, booking creation, and booking management.
+- Structured backend using controller-route separation, centralized error handling, and reusable middleware for maintainability.
+- Integrated responsive UI pages for home discovery, hotel details, reservation flow, account access, and booking history management.
+- Added an AI Trip Planner feature to support itinerary planning and improve overall user engagement. 
 
 ---
 
